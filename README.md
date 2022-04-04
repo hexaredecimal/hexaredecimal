@@ -31,9 +31,7 @@
 I am a computer science student and an open source contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
 - :telescope: I am a student at Tshwane University of Technolyg
-- 
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I write code and contribute to interesting projects on github.
 
 ---
