@@ -19,22 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=vultureofficial&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
-<h1 align="center"> Sibusiso Vincent Gama </h1> 
-
----
-
-### :man_technologist: About Me :
-I am a computer science student and an open source contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-
-- :telescope: I am a student at Tshwane University of Technology
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I write code and contribute to interesting projects on github.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C programming" alt="React" width="40" height="40"/>&nbsp;
@@ -50,19 +34,12 @@ I am a computer science student and an open source contributor <img src="https:/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vultureofficial&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vultureofficial&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultureofficial&layout=compact" width="333" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vultureofficial&layout=compact" width="400" />
+</a>
+
 <!--
 **vultureofficial/vultureofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
