@@ -16,7 +16,7 @@
   
 </div>
 <div id="views" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=vultureofficial&style=flat-square&color=blue" align="center" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hexaredecimal&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
 <div>
@@ -35,11 +35,11 @@
 
 ### :fire: My Stats :
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultureofficial&layout=compact" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexaredecimal&layout=compact" width="333" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vultureofficial&layout=compact" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexaredecimal&layout=compact" width="400" />
 </a>
 
 <!--
-**vultureofficial/vultureofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hexaredecimal/hexaredecimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
