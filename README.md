@@ -27,11 +27,12 @@
 ---
 
 ### :fire: My Stats :
+
+![](https://raw.githubusercontent.com/hexaredecimal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hexaredecimal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexaredecimal&layout=compact" width="333" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexaredecimal&layout=compact" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexaredecimal&show_icons=true&theme=blue_navy&layout=compact" width="400" />
 </a>
 
 <!--
