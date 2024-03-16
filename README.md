@@ -28,11 +28,11 @@
 
 ### :fire: My Stats :
 
-![](https://raw.githubusercontent.com/hexaredecimal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hexaredecimal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexaredecimal&show_icons=true&theme=blue_navy&layout=compact" width="400" />
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hexaredecimal?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
 </a>
 
 <!--
