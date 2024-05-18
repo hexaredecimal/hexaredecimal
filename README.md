@@ -32,6 +32,12 @@
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hexaredecimal?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=hexaredecimal&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark)
+
+![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=hexaredecimal&hide_border=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexaredecimal&hide_border=true&theme=dark)
+
 
 </a>
 
