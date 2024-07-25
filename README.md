@@ -26,11 +26,10 @@
 </div>
 
 <div align="center">
-  <h3>Rankings: </h3>
+  <h3>Rankings </h3>
   <hr/>
     
   <img src="https://github-profile-trophy.vercel.app/?username=hexaredecimal&theme=onedark" />
-</di>
 
 <div id="views">
   <h5> View counter </h5>
@@ -52,6 +51,6 @@
 
 
 </a>
-
+</di>
 <!--
 **hexaredecimal/hexaredecimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
