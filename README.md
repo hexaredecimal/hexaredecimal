@@ -1,5 +1,5 @@
 ## Mfanakagama
-> A programmer for the internet.</p>
+> A programmer from the internet.</p>
 
 <div id="badges" align="center">
   <h3> Social media</h3>
