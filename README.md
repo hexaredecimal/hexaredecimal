@@ -2,7 +2,6 @@
 > A programmer from the internet.</p>
 
 <div id="badges" align="center">
-  <h3> Social media</h3>
   <hr/>
   
   <a href="twitter.com/hexaredecimal">
@@ -12,7 +11,6 @@
 
 
 <div align="center">
-  <h3> Technologies</h3>
   <hr/>
   
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -25,32 +23,8 @@
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 </div>
 
-<div align="center">
-  <h3>Rankings </h3>
-  <hr/>
-    
-  <img src="https://github-profile-trophy.vercel.app/?username=hexaredecimal&theme=onedark" />
-
 <div id="views">
   <h5> View counter </h5>
   <img src="https://komarev.com/ghpvc/?username=hexaredecimal&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
-
----
-
-### :fire: My Stats :
-
-<a href="#">
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hexaredecimal?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=hexaredecimal&hide_border=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexaredecimal&hide_border=true&theme=dark)
-
-
-</a>
-</di>
-<!--
-**hexaredecimal/hexaredecimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
